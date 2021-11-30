@@ -7,8 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="light_blue">#2cabe3</color>
-    <color name="dark_blue">#1e93c7</color>
+    <color name="light_blue">#3399FF</color>
+    <color name="dark_blue">#3366CC</color>
+    <color name="pacific_blue">#0099CC</color>
+    <color name="snowy_mint">#CCFFCC</color>
+    <color name="sapphire">#333399</color>
 
 
 

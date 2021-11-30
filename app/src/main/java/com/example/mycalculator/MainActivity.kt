@@ -73,8 +73,6 @@ class MainActivity : AppCompatActivity() {
                     || value.contains("*")
                     || value.contains("+")
                     || value.contains("-")
-                    || value.contains("(")
-                    || value.contains(")")
         }
 
     }
@@ -100,10 +98,6 @@ class MainActivity : AppCompatActivity() {
             var prefix = ""
 
             try {
-                if(tvValue.startsWith("(") && tvValue.endsWith(")")){
-                    prefix = "("
-
-                }
 
                 if(tvValue.startsWith("-")){
                     prefix = "-"
