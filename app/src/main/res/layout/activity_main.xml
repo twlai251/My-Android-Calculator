@@ -34,25 +34,25 @@
         >
 
         <!--  parentheses -->
-        <Button
-            android:id="@+id/btnParOpen"
-            android:layout_width="0dp"
-            android:layout_marginEnd="5dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:text="("
-            android:onClick="onDigit"
-        />
+<!--        <Button-->
+<!--            android:id="@+id/btnParOpen"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_marginEnd="5dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="("-->
+<!--            android:onClick="onDigit"-->
+<!--        />-->
 
-        <Button
-            android:id="@+id/btnParClose"
-            android:layout_width="0dp"
-            android:layout_marginEnd="5dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:text=")"
-            android:onClick="onDigit"
-        />
+<!--        <Button-->
+<!--            android:id="@+id/btnParClose"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_marginEnd="5dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text=")"-->
+<!--            android:onClick="onDigit"-->
+<!--        />-->
 
         <!--    Clear Button    -->
         <Button

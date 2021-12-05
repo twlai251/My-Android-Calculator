@@ -91,7 +91,7 @@ class MainActivity : AppCompatActivity() {
         return value
     }
 
-    //    Equals 
+    //    Equals
     fun onEqual(view: View){
         if (lastNumeric){
             var tvValue = tvInput?.text.toString()
@@ -142,6 +142,8 @@ class MainActivity : AppCompatActivity() {
 
                     var one = splitValue[0] // Value One
                     val two = splitValue[1] // Value Two
+
+
                     tvInput?.text = (one.toDouble() - two.toDouble()).toString()
 
                 }
